@@ -11,14 +11,14 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=green" alt=""/>
   <h1>
+  <p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/Abubacer"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=36&pause=900&center=true&vCenter=true&width=620&lines=Hello+World!" alt="Typing SVG" /></a>
+</p>
+<div align="center">
     
   </h1>
 </div>
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/Abubacer"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=36&pause=900&center=true&vCenter=true&width=620&lines=Hello+World!;I'm+Aziz;Designer+by+Heart;Software+Engineer+in+the+Making!" alt="Typing SVG" /></a>
-</p>
-<div align="center">
 </div>
 
 
