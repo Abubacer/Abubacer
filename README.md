@@ -22,7 +22,7 @@
 </div>
 
 
-### 👨 About Me :
+### About Me :
 
 Hey there! My name is Aziz, a passionate Designer who's now embarking on an amazing journey to become a Software Engineer with UI/UX design skills 🚀🌟🎆 I am passionate about design and the world of software development.
 
@@ -38,23 +38,13 @@ Currently, I am:
 >_"My goal is to comprehensively address all facets of the end-user experience within the system, encompassing visual design, interface functionality, physical interactions, and overall usability."_
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <br/>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="vagrant" alt="vagrant" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg"  title="xd" alt="xd" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=python,c,git,bash,vim,ai,ps,xd,figma&perline=12)](https://skillicons.dev)
 
 ---
+### My Stats :
 
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abubacer&layout=compact&theme=holi&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abubacer&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
