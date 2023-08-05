@@ -14,7 +14,7 @@
   <h1>
   <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/Abubacer"><img src="https://readme-typing-svg.demolab.com?font=Fira Code&weight=500&size=36&pause=900multiline=true&center=true&vCenter=true&width=820&lines=Hello+World!; Iam+a+designer+by+heart.; Software+Engineer+in+the+making!" alt="Typing SVG" /></a>
+  <a href="https://github.com/Abubacer"><img src="https://readme-typing-svg.demolab.com?font=Fira Code&weight=50&size=30&pause=900&multiline=false&center=true&vCenter=true&width=620&hieght=200&lines=Hello+World!; Iam+a+designer+by+heart.; Software+Engineer+in+the+making!" alt="Typing SVG" /></a>
 </p>
 <div align="center"> 
   </h1>
@@ -28,11 +28,11 @@ Hey there! My name is Aziz, a passionate Designer who's now embarking on an amaz
 
 Currently, I am:
 
-- A student immersed in the world of software development, and learning various programming languages and tools.
-- Exploring front-end and back-end development to gain a holistic understanding of software development and the inner working of seamless, interactive digital experiences.
-- Tackling new challenges, solving complex problems, and continuously growing as a software engineer as I bring my unique design perspective into the world of development.
-- Applying my design expertise, and honing my UI/UX skills to craft intuitive UI and engaging UX that merge aesthetics with functionality.
-- Looking for interesting and impactful work/projects (please don't be shy to reach out!).
+- 🎓 A student immersed in the world of software development, and learning various programming languages and tools.
+- 🧭 Exploring front-end and back-end development to gain a holistic understanding of software development and the inner working of seamless, interactive digital experiences.
+- 🌱 Tackling new challenges, solving complex problems, and continuously growing as a software engineer as I bring my unique design perspective into the world of development.
+- 👨‍💻 Applying my design expertise, and honing my UI/UX skills to craft intuitive UI and engaging UX that merge aesthetics with functionality.
+- 💡 Looking for interesting and impactful work/projects (please don't be shy to reach out!).
 
 
 >_"My goal is to comprehensively address all facets of the end-user experience within the system, encompassing visual design, interface functionality, physical interactions, and overall usability."_
