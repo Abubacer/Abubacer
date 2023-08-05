@@ -13,8 +13,7 @@
   
   <h1>
   <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/Abubacer"><img src="https://readme-typing-svg.demolab.com?font=Fira Code&weight=50&size=30&pause=900&color=e3e3e3&center=true&vCenter=true&width=620&hieght=200&lines=Hello+World!; Iam+a+designer+by+heart.; Software+Engineer+in+the+making!" alt="Typing SVG" /></a>
+  <a href="https://github.com/Abubacer"><img src="https://readme-typing-svg.demolab.com?font=Fira Code&weight=50&size=30&pause=900&color=4a98ff&center=true&vCenter=true&width=620&hieght=200&lines=Hello+World!; Iam+a+designer+by+heart.; Software+Engineer+in+the+making!" alt="Typing SVG" /></a>
 </p>
 <div align="center"> 
   </h1>
