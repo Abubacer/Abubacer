@@ -40,7 +40,7 @@ Currently, I am:
 ### Languages and Tools :
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,git,bash,vim,ai,ps,xd,figma&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,git,bash,vim,html,css,javascript,ps,xd,ai,figma&perline=12)](https://skillicons.dev)
 
 ---
 ### My Stats :
